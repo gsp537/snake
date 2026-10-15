@@ -1,0 +1,12 @@
+function setup() {
+createCanvas(600, 600); 
+background(0, 0, 0);
+fill(0, 0, 0);
+
+} 
+
+function draw() {
+square(100, 50, 50);
+fill(255);
+
+}
